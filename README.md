@@ -2,19 +2,18 @@
 very simple, very  fast, no install   google adsense
 
 1.include google ad js
-<pre>
-<code>
+```javascript
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</code>
-</pre>
+```
 
 
 2.html hard coding kkk~ 
+
 Template literals : https://flaviocopes.com/javascript-template-literals/
 
 use javascript ES5 : https://cdnjs.com/libraries/babel-standalone
-<pre>
-<code>
+
+```javascript
 <script type="text/babel">
 "use strict";
 Vue.component('ad-sense', {
@@ -53,8 +52,7 @@ Vue.component('ad-sense', {
     }
 });
 </script>
-</code>
-</pre>
+```
 
 3.use vue component
 options (format, layout-key, client, slot)
