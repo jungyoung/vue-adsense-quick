@@ -11,6 +11,7 @@ very simple, very  fast, no install   google adsense
 
 2.html hard coding kkk~ 
 Template literals : https://flaviocopes.com/javascript-template-literals/
+
 use javascript ES5 : https://cdnjs.com/libraries/babel-standalone
 <pre>
 <code>
